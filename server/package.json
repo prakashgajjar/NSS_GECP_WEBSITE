@@ -1,0 +1,23 @@
+{
+  "name": "nss_gec_patan",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "prakash suthar",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mailgun-js": "^0.22.0",
+    "mongoose": "^8.13.2",
+    "nodemailer": "^6.10.0",
+    "resend": "^4.2.0"
+  }
+}

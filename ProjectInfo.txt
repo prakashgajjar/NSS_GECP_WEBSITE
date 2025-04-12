@@ -1,0 +1,5 @@
+-they have two files server for backend and client for frontend 
+-work.rft files shows  work done and pending
+-server.log show dependencies 
+-NSS_GEC_PATAN.md show whole structure and info about project 
+
